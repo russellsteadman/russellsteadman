@@ -29,3 +29,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
+
+## Certifications
+
+<div>
+  <a href="https://www.credly.com/badges/c4e57668-1520-4160-9d13-5039357133a2/public_url"><img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" title="AWS Certified Solutions Architect Associate" width="108" height="108" /></a>
+</div>
